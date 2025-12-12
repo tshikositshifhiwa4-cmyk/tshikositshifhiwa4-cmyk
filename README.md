@@ -1,16 +1,59 @@
-## Hi there 👋
+<!-- HEADER -->
+<h1 align="center">👋 Hi, I'm <strong>Tshifhiwa Tshikosi</strong></h1>
+<h3 align="center">Data Analyst • BI Developer • Business Analyst • Aspiring Data Scientist</h3>
 
-<!--
-**tshikositshifhiwa4-cmyk/tshikositshifhiwa4-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-1abc9c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always-Learning-f39c12?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ABOUT ME -->
+## ✨ About Me
+
+I am a **Data Analyst** with **1 year of practical experience** gained through real-world case studies, projects, and hands-on analytics work.  
+I specialize in transforming datasets into insights using **SQL, Power BI, Excel, Looker Studio, and Python fundamentals**.
+
+I enjoy:
+- Building clean and interactive dashboards  
+- Solving data problems with analytics and logic  
+- Designing efficient data models  
+- Turning raw datasets into meaningful business insights  
+
+Currently expanding my skills in **Python, Machine Learning, and Cloud Analytics**.
+
+
+---
+
+<!-- TECH STACK -->
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-0476D9?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-006272?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA%20Security+-EE0000?style=for-the-badge&logo=comptia&logoColor=white" />
+</p>
+
+---
+
+<!-- CONNECT -->
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href=" www.linkedin.com/in/tshifhiwa-tshikosi-484219213">LinkedIn</a> •
+  
+  <a href=" https://github.com/tshikositshifhiwa4-cmyk">GitHub</a> •
+</p>
+
+
+---
+
+<p align="center">✨ Passionate about technology, innovation, and data-driven solutions.</p>
+
+
+
+

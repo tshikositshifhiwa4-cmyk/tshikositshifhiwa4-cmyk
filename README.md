@@ -48,6 +48,9 @@ Currently expanding my skills in **Python, Machine Learning, and Cloud Analytics
   <strong>Tshifhiwa Tshikosi</strong>
 </a> •
   <a href=" https://github.com/tshikositshifhiwa4-cmyk">GitHub</a> •
+  <a href="https://tshifhiwa-tshikosi.netlify.app" target="_blank">
+  Tshifhiwa portfolio website
+</a>
 </p>
 
 

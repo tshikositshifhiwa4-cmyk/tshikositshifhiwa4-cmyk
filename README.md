@@ -13,7 +13,7 @@
 ## ✨ About Me
 
 I am a **Data Analyst** with **1 year of practical experience** gained through real-world case studies, projects, and hands-on analytics work.  
-I specialize in transforming datasets into insights using **SQL, Power BI, Excel, Looker Studio, and Python fundamentals**.
+I specialize in transforming datasets into insights using **SQL, Power BI, Excel, and Looker Studios**.
 
 I enjoy:
 - Building clean and interactive dashboards  

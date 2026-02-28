@@ -22,7 +22,7 @@ I enjoy:
 - Designing efficient data models  
 - Turning raw datasets into meaningful business insights  
 
-Currently expanding my skills in **Python, Machine Learning,and cloud-based data engineering and analytics**.
+Currently expanding my skills in **Python, Machine Learning, and cloud-based data engineering and analytics**.
 
 
 ---
@@ -39,6 +39,7 @@ Currently expanding my skills in **Python, Machine Learning,and cloud-based data
   <img src="https://img.shields.io/badge/CompTIA%20Security+-EE0000?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ---

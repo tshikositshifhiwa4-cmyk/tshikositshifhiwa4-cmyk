@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <strong>Tshifhiwa Tshikosi</strong></h1>
-<h3 align="center">Data Analyst • BI Developer • Business Analyst • Aspiring Data Scientist</h3>
+<h3 align="center">Data Analyst • SQL Developer • Analytics-Driven Problem Solver • Data Engineer Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-1abc9c?style=for-the-badge" />
@@ -14,6 +14,7 @@
 
 I am a **Data Analyst** with **1 year of practical experience** gained through real-world case studies, projects, and hands-on analytics work.  
 I specialize in transforming datasets into insights using **SQL, Power BI, Excel, and Looker Studios**.
+I focus on transforming raw data into structured, reporting-ready datasets while applying **data modeling and analytical best practices**. Currently expanding into **data engineering** principles and **data architecture**.
 
 I enjoy:
 - Building clean and interactive dashboards  
@@ -21,7 +22,7 @@ I enjoy:
 - Designing efficient data models  
 - Turning raw datasets into meaningful business insights  
 
-Currently expanding my skills in **Python, Machine Learning, and Cloud Analytics**.
+Currently expanding my skills in **Python, Machine Learning,and cloud-based data engineering and analytics**.
 
 
 ---
@@ -36,6 +37,8 @@ Currently expanding my skills in **Python, Machine Learning, and Cloud Analytics
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Query-006272?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA%20Security+-EE0000?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---

@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <strong>Tshifhiwa Tshikosi</strong></h1>
-<h3 align="center">Data Analyst • SQL Developer • Analytics-Driven Problem Solver • Data Engineer Enthusiast</h3>
+<h3 align="center">Data Analyst • SQL Developer • Analytics Driven Problem Solver • Data Engineer Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-1abc9c?style=for-the-badge" />

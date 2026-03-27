@@ -5,12 +5,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-1abc9c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Building-Data%20Engineering%20Skills-3498db?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always-Learning-f39c12?style=for-the-badge" />
 </p>
 
 ---
 
 <!-- ABOUT ME -->
-##  About Me
+## ✨About Me
 
 I’m a **Data Analyst and Junior Data Engineer** focused on building reliable and structured data solutions.  
 I enjoy working with data from end to end, from cleaning and transforming raw datasets to modelling them for analysis and reporting.

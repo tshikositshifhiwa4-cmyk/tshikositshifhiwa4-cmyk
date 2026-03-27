@@ -1,69 +1,58 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <strong>Tshifhiwa Tshikosi</strong></h1>
-<h3 align="center">Data Analyst • SQL Developer • Analytics Driven Problem Solver • Data Engineer Enthusiast</h3>
+<h3 align="center">Data Analyst | Junior Data Engineer | SQL • Snowflake • BigQuery</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-1abc9c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Always-Learning-f39c12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-Data%20Engineering%20Skills-3498db?style=for-the-badge" />
 </p>
 
 ---
 
 <!-- ABOUT ME -->
-## ✨ About Me
+##  About Me
 
-I am a **Data Analyst** with **1 year of practical experience** gained through real-world case studies, projects, and hands-on analytics work.  
-I specialize in transforming datasets into insights using **SQL, Power BI, Excel, and Looker Studios**.
-I focus on transforming raw data into structured, reporting-ready datasets while applying **data modeling and analytical best practices**. Currently expanding into **data engineering** principles and **data architecture**.
+I’m a **Data Analyst and Junior Data Engineer** focused on building reliable and structured data solutions.  
+I enjoy working with data from end to end, from cleaning and transforming raw datasets to modelling them for analysis and reporting.
 
-I enjoy:
-- Building clean and interactive dashboards  
-- Solving data problems with analytics and logic  
-- Designing efficient data models  
-- Turning raw datasets into meaningful business insights  
+I have hands-on experience working with **SQL, Snowflake, SSMS, and BigQuery** for data transformation and analysis, and I use tools like **Looker and PowerBI** to build clear and impactful dashboards.
 
-Currently expanding my skills in **Python, Machine Learning, and cloud-based data engineering and analytics**.
+Some of the projects I’ve worked on include:
+- Property24 data analysis project using a **star schema** for housing data  
+- Telco churn analysis focused on customer retention patterns  
+- Coffee shop sales analysis using Snowflake and Looker  
+- Brazilian e-commerce project *(in progress)* focused on building scalable data workflows  
 
+Currently, I’m expanding my skills in **data engineering**, focusing on data modelling, warehousing, and building scalable data pipelines.
 
 ---
 
 <!-- TECH STACK -->
-## 🧠 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-0476D9?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Query-006272?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA%20Security+-EE0000?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
 <!-- CONNECT -->
-## 🌐 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tshifhiwa-tshikosi-484219213" target="_blank">
-  <strong>Tshifhiwa Tshikosi LinkedIn</strong>
+  <strong>LinkedIn</strong>
 </a> •
-  <a href=" https://github.com/tshikositshifhiwa4-cmyk">GitHub</a> •
-  <a href="https://tshifhiwa-tshikosi.netlify.app" target="_blank">
-  Tshifhiwa portfolio website
-</a>
+  <a href="https://github.com/tshikositshifhiwa4-cmyk">GitHub</a>
 </p>
-
 
 ---
 
-<p align="center">✨ Passionate about technology, innovation, and data-driven solutions.</p>
-
-
-
-
+<p align="center">✨ Building in public • Growing in data analytics and engineering</p>

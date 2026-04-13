@@ -22,7 +22,6 @@ Some of the projects I’ve worked on include:
 - Property24 data analysis project using a **star schema** for housing data  
 - Telco churn analysis focused on customer retention patterns  
 - Coffee shop sales analysis using Snowflake and Looker  
-- Brazilian e-commerce project *(in progress)* focused on building scalable data workflows  
 
 Currently, I’m expanding my skills in **data engineering**, focusing on data modelling, warehousing, and building scalable data pipelines.
 

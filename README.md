@@ -64,7 +64,9 @@ My academic research background has strengthened my analytical thinking, problem
 ## Certifications
 
  Microsoft Certified: Azure Data Fundamentals (DP-900)
+ 
  Data Analytics skills program
+ 
  Intermediate SQL
 
 ---
